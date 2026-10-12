@@ -28,4 +28,4 @@ I build web apps with React, Node.js and Python. I like projects with real users
 
 ## Get in touch
 
-📧 nikitaburalek1@gmail.com · 💼 [LinkedIn]((https://www.linkedin.com/in/nick-babichau-060289336/?isSelfProfile=true)) · 🌐 [Portfolio](https://react-portfolio-vert-omega.vercel.app)
+📧 nikitaburalek1@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/nick-babichau-060289336/?isSelfProfile=true) · 🌐 [Portfolio](https://react-portfolio-vert-omega.vercel.app)
