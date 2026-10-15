@@ -20,6 +20,8 @@ I build web apps with React, Node.js and Python. I like projects with real users
 | [DotaQuest Hub](https://github.com/Baichau/Dota_app) | Fan web app with Steam login, quests and rewards. | Node.js, Express |
 | [LHL Hockey](https://github.com/Baichau/LHL-hockey) | Website for a hockey league. [Live demo](https://dota-game-hzel.vercel.app/#home) | NestJS, TypeScript |
 | [Cosmic Audio](https://github.com/Baichau/cosmic-audio) | Spotify-style music player with a glass interface: local library in the browser, Jamendo search and radio, synced lyrics, equalizer and crossfade, optional friends listening via Supabase. [Live demo](https://cosmic-audio.vercel.app/) | React, Vite, Tailwind CSS, Supabase |
+| [Neon Arcade](https://github.com/Baichau/neon-arcade) | Apple-inspired mini-game arcade with 21 games across Reflex, Brain and Luck, search and category filters, pinned favorites and personal bests saved in the browser. [Live demo](https://neon-arcade-xi.vercel.app/) | React, Vite |
+| [Ghost Racer](https://github.com/Baichau/ghost-racer) | Typing-speed duel against the ghost of your own best run, with live WPM stats, a keystroke replay, a history graph and real quotes fetched from a public API. [Live demo](https://ghost-racer-liard.vercel.app/) | React, Vite, public quotes API |
 
 ## Background
 
