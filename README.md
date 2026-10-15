@@ -18,7 +18,7 @@ I build web apps with React, Node.js and Python. I like projects with real users
 | [Little Lemon API](https://github.com/Baichau/little-lemon-api) | Role-based REST API for a restaurant: menu, cart, orders, manager and delivery-crew roles, Swagger docs.| Django REST Framework, Djoser |
 | [ScreedMasters](https://github.com/Baichau/ScreedMasters-app) | Responsive website for a floor-screed contractor in Gomel, with gallery, FAQ, reviews and contact form. | HTML, CSS, JavaScript |
 | [DotaQuest Hub](https://github.com/Baichau/Dota_app) | Fan web app with Steam login, quests and rewards. | Node.js, Express |
-| [LHL Hockey](https://github.com/Baichau/LHL-hockey) | Website for a hockey league. | NestJS, TypeScript |
+| [LHL Hockey](https://github.com/Baichau/LHL-hockey) | Website for a hockey league. [Live demo](https://dota-game-hzel.vercel.app/#home) | NestJS, TypeScript |
 | [Cosmic Audio](https://github.com/Baichau/cosmic-audio) | Spotify-style music player with a glass interface: local library in the browser, Jamendo search and radio, synced lyrics, equalizer and crossfade, optional friends listening via Supabase. [Live demo](https://cosmic-audio.vercel.app/) | React, Vite, Tailwind CSS, Supabase |
 
 ## Background
