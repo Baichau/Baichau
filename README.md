@@ -29,6 +29,7 @@ I build web apps with React, Node.js and Python. I like projects with real users
 | [DotaQuest Hub](https://github.com/Baichau/Dota_app) | Fan web app with Steam login, quests and rewards. | Node.js, Express |
 | [ScreedMasters](https://github.com/Baichau/ScreedMasters-app) | Responsive website for a floor-screed contractor in Gomel, with gallery, FAQ, reviews and contact form. | HTML, CSS, JavaScript |
 | [Talk Circle](https://github.com/Baichau/talk-circle) | Conversation-card app for English speaking clubs. Create or join a live room with a code, pick from 200 searchable topics, choose a question, and everyone sees it while one person answers. [Live demo](https://talk-circle.vercel.app/) | React, Vite, Supabase Realtime |
+| BitForge | Local-first digital logic studio with a visual circuit editor, live simulation, campaign challenges, independent projects, and reusable circuit blueprints. Live demo | React, Vite |
 
 
 
